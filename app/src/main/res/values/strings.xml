@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Trip Mate</string>
+    <string name="title_activity_home_add_button">HomeAddButton</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_app_home">Upcoming Trips</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for side drawer menu -->
+    <string name="menu_home">History</string>
+    <string name="menu_gallery">Sync</string>
+    <string name="menu_slideshow">Logout</string>
+    <string name="home_second">History</string>
+    <string name="title_activity_user_cycle">UserCycleActivity</string>
+
+    <string name="tripname">TripName</string>
+    <string name="from">  From</string>
+    <string name="to">"To"</string>
+
+    <string name="title_activity_homepage">homepageActivity</string>
+
+    <string name="email">Email</string>
+    <string name="pass">Pass</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account_yet_sign_up_here">No account yet? Sign up here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_upcoming_trips">UpcomingTripsActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_location">Search start point</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="edit_notes">Edit Notes</string>
+    <string name="edit_trip">Edit Trip</string>
+    <string name="cancel_trip">Cancel Trip</string>
+    <string name="delete_trip">Delete Trip</string>
+    <string name="trip_name">Trip name</string>
+    <string name="search_destination">Search Destination</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="start_point">Start Point</string>
+    <string name="destination">Destination</string>
+    <string name="des">"Enter Destination "</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="times_array">
+        <item>Don\'t Repeat</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <string-array name="trip_direction_array">
+        <item>One way Trip</item>
+        <item>Round Trip</item>
+    </string-array>
+
+
+</resources>

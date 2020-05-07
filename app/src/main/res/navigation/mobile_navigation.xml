@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.vaatu.tripmate.ui.home.home.HomeFragment"
+        android:label="UpComing Trips"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_History"
+            app:destination="@id/nav_history" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_sync"
+            app:destination="@id/nav_sync" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.vaatu.tripmate.ui.home.history.HistoryFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/history_fragment">
+
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_sync"
+        android:name="com.vaatu.tripmate.ui.home.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.vaatu.tripmate.ui.home.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+</navigation>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323483317860",
+    "firebase_url": "https://trip-mate-f3958.firebaseio.com",
+    "project_id": "trip-mate-f3958",
+    "storage_bucket": "trip-mate-f3958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323483317860:android:c7c7205774523a877ad171",
+        "android_client_info": {
+          "package_name": "com.vaatu.tripmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323483317860-uu37tkc6p6b1jaagv8q73cbeid8750fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaatu.tripmate",
+            "certificate_hash": "882beed0f4f140bd1b494c7bbe3a6b74080d06ed"
+          }
+        },
+        {
+          "client_id": "323483317860-rtj63tqu7vbr9cr9tak4i4v2epaaldvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtbvi_Io3CCPIF7ogzXKxpc78iRVkQhvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323483317860-rtj63tqu7vbr9cr9tak4i4v2epaaldvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
