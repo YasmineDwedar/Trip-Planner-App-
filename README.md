@@ -44,8 +44,9 @@ Developers
 3- Aly Serry
 
 Corresponding Tasks:
-  Mohammed El Aarabi --> Add Trip with google auto-complete + FireBase Database  + Alert Dialog Reminder + Floating Widget 
+  
+Mohammed El Aarabi --> Add Trip with google auto-complete + FireBase Database  + Alert Dialog Reminder + Floating Widget 
 Yasmine Mohey Dwedar --> Navigation Drawer + Upcoming Trip and Histroy CardViews with recycler + Side Pop Menus + Splash Screen 
-           Aly Serry -->  Login + Sign up + Google Sign in + Firebase Auth + Notification service  
+Aly Serry -->  Login + Sign up + Google Sign in + Firebase Auth + Notification service  
 
 
