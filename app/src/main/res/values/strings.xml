@@ -30,7 +30,7 @@
     <string name="title_activity_homepage">homepageActivity</string>
 
     <string name="email">Email</string>
-    <string name="pass">Pass</string>
+    <string name="pass">Password</string>
     <string name="sign_in">Sign In</string>
     <string name="no_account_yet_sign_up_here">No account yet? Sign up here</string>
     <string name="sign_up">Sign Up</string>
