@@ -19,7 +19,6 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.vaatu.tripmate.R;
-import com.vaatu.tripmate.ui.home.UpcomingTripsActivity;
 import com.vaatu.tripmate.utils.TripModel;
 
 import java.util.ArrayList;
@@ -44,7 +43,7 @@ public class HomeFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_home, container, false);
 
         RecyclerView rev = root.findViewById(R.id.recycler);
-        RecAdaptor adpater = new RecAdaptor(tripDetails, getActivity());
+        HomeAdaptor adpater = new HomeAdaptor(tripDetails, getActivity());
 
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getContext());
         linearLayoutManager.setReverseLayout(true);
