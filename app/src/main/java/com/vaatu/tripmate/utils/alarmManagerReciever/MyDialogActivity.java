@@ -89,7 +89,8 @@ public class MyDialogActivity extends Activity {
 
                             finish();
                         }
-                    }).setNeutralButton("Cancel Trip", new DialogInterface.OnClickListener() {
+                    })
+                    .setNeutralButton("Cancel Trip", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             Toast.makeText(MyDialogActivity.this, "Trip Canceled", Toast.LENGTH_SHORT).show();
