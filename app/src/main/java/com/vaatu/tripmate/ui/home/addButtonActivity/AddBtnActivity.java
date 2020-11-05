@@ -336,8 +336,6 @@ public class AddBtnActivity extends AppCompatActivity implements TimePickerDialo
         } catch (ParseException e) {
             e.printStackTrace();
         }
-
-
         Intent intent = new Intent(this, AlarmEventReciever.class);
         intent.putExtra(NEW_TRIP_OBJECT, tripModel);
 

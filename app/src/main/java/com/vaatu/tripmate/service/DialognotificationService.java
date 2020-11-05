@@ -50,7 +50,7 @@ public class DialognotificationService extends Service {
 //        Bundle b = intent.getBundleExtra(RECEIVED_TRIP);
 //        tm = (TripModel) b.getSerializable(RECEIVED_TRIP_SEND_SERIAL);
 
-        return localBinder;
+        return localBinder;  // ref from inerclass MyBinder
     }
 
     private void createNotificationChannel() {
@@ -83,7 +83,7 @@ public class DialognotificationService extends Service {
 
 
     public class MyBinder extends Binder {
-        public DialognotificationService getService() {
+        public DialognotificationService getService() {  // ref ml service
             return DialognotificationService.this;
         }
 
