@@ -61,7 +61,7 @@
             </intent-filter>
         </receiver>
 
-        <service android:name=".utils.alarmManagerReciever.MyRingingService" />
+<!--        <service android:name=".utils.alarmManagerReciever.MyRingingService" />-->
         <service android:name=".service.FloatingWindowService"></service>
     </application>
 
