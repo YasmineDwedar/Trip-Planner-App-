@@ -49,4 +49,18 @@ Mohammed El Aarabi --> Add Trip with google auto-complete + FireBase Database  +
 Yasmine Mohey Dwedar --> Navigation Drawer + Upcoming Trip and Histroy CardViews with recycler + Side Pop Menus + Splash Screen 
 Aly Serry -->  Login + Sign up + Google Sign in + Firebase Auth + Notification service  
 
+______________________________________________________________________________________________________________________________________
+Screenshots
+
+![Screenshot_2021-02-16-15-18-31](https://user-images.githubusercontent.com/58287865/108071170-15d62000-706e-11eb-8f1f-23f96aa3b70a.png)
+![Screenshot_2021-02-16-15-18-43](https://user-images.githubusercontent.com/58287865/108071174-166eb680-706e-11eb-8ca5-22a74bc1fc17.png)
+![Screenshot_2021-02-16-15-19-13](https://user-images.githubusercontent.com/58287865/108071175-17074d00-706e-11eb-9578-2c9a833891c6.png)creen
+![Screenshot_2021-02-16-15-19-51](https://user-images.githubusercontent.com/58287865/108071177-18387a00-706e-11eb-87b4-fd9d66370656.png)
+![Screenshot_2021-02-16-15-20-06](https://user-images.githubusercontent.com/58287865/108071180-18d11080-706e-11eb-90b8-97fa1c7d3bd8.png)
+![Screenshot_2021-02-16-15-20-20](https://user-images.githubusercontent.com/58287865/108071185-1969a700-706e-11eb-9450-7f216ea39928.png)
+![Screenshot_2021-02-16-15-18-21](https://user-images.githubusercontent.com/58287865/108071189-1a023d80-706e-11eb-9e73-cc0894e1ceb5.png)
+
+
+
+
 
